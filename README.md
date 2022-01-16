@@ -1,8 +1,8 @@
-👋 Welcome!
-
+<div align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brandedux&show_icons=true&theme=radical" />
+</div><br />
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brandedux&show_icons=true&theme=radical" /><br />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandedux&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandedux&theme=radical" />
 </div>
 
 <!---
