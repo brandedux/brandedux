@@ -1,8 +1,8 @@
-<div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brandedux&show_icons=true&theme=radical" />
-</div><br />
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandedux&theme=radical" />
+  <img align="left" border="0" src="https://github-readme-stats.vercel.app/api?username=brandedux&show_icons=true&theme=radical" width="100%" />
+</div><br />
+<div>
+  <img align="left" border="0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandedux&layout=compact&theme=radical" width="100%"/>
 </div>
 
 <!---
