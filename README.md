@@ -1,6 +1,7 @@
 👋 Welcome!
 
-![Branded UX's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandedux&show_icons=true&theme=merko)
+![Branded UX's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandedux&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brandedux&layout=compact)](https://github.com/brandedux/github-readme-stats)
 
 <!---
 brandedux/brandedux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
